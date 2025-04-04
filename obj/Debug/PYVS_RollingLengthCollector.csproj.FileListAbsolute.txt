@@ -1,0 +1,12 @@
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\NLog.config
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\PYVS_RollingLengthCollector.exe.config
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\PYVS_RollingLengthCollector.exe
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\PYVS_RollingLengthCollector.pdb
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\NLog.dll
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\S7.Net.dll
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\NLog.xml
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\bin\Debug\S7.Net.pdb
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\obj\Debug\PYVS_RollingLengthCollector.csproj.CoreCompileInputs.cache
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\obj\Debug\PYVS_RollingLengthCollector.csproj.CopyComplete
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\obj\Debug\PYVS_RollingLengthCollector.exe
+C:\02.PSSV_Work\12. L2 Dev\02. L2 application Develop\PYVS_RollingLengthCollector\obj\Debug\PYVS_RollingLengthCollector.pdb
